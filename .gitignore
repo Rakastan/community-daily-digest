@@ -1,0 +1,8 @@
+.env
+.env.*
+*.secret
+*token*.json
+credentials*.json
+__pycache__/
+.DS_Store
+reports/
